@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prg1_b_04_nbre_premiers_Verseal_Git",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prg1_b_04_nbre_premiers_Verseal_Git::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prg1_b_04_nbre_premiers_Verseal_Git-Debug-4fa0d062a40690bbd91a.json",
+					"name" : "prg1_b_04_nbre_premiers_Verseal_Git",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/S3/prg1/Labos/Git/prg1-b-04-nbre-premiers-Verseal-Git/cmake-build-debug",
+		"source" : "H:/S3/prg1/Labos/Git/prg1-b-04-nbre-premiers-Verseal-Git"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
